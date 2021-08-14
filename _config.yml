@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Bowen Xin"
-  avatar           : "profile.png"
+  avatar           : "avatar.jpg"
   bio              : "Bowen Xin is a postdoctoral fellow in Australian e-health research center, CSIRO. His research focuses on Medical AI, Multimodal Learning and Topological Analysis."
   location         : "Sydney, NSW, AU"
   employer         :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/bowen-xin/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
